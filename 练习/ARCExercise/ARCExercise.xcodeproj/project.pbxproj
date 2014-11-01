@@ -32,7 +32,6 @@
 		7668B0841A00C14200DD3266 /* nonoptionaltest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = nonoptionaltest.swift; sourceTree = "<group>"; };
 		7668B0861A00C5A500DD3266 /* weakandunownedtest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = weakandunownedtest.swift; sourceTree = "<group>"; };
 		7668B0881A00CBC400DD3266 /* main.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		999F24391A049B0B007738E8 /* test */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = test; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +70,6 @@
 				7668B0841A00C14200DD3266 /* nonoptionaltest.swift */,
 				7668B0861A00C5A500DD3266 /* weakandunownedtest.swift */,
 				7668B0881A00CBC400DD3266 /* main.swift */,
-				999F24391A049B0B007738E8 /* test */,
 			);
 			path = ARCExercise;
 			sourceTree = "<group>";
