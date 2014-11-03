@@ -37,3 +37,4 @@ class HTMLElement {
 var html:HTMLElement? = HTMLElement(name: "p", text: "Hello,World!")
 println(html!.asHTML())
 html = nil
+//修改什么东西ß
